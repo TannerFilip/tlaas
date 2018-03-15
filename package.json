@@ -1,6 +1,6 @@
 {
 	"name": "ngaas",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Name generator as a service",
 	"author": "Jacob Clark <jacob.jh.clark@googlemail.com>",
 	"dependencies": {
